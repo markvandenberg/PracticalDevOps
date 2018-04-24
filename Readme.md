@@ -32,15 +32,4 @@ During the workshop we will use the [Parts Unlimited sample application](docs/Pa
 8. [Telemetry and Application Insights](docs/User_Telemetry_APM_With_App_Insights/LabDescription.md).
 
 
-
-
-
-
-
-
-
-
-
-
-
-
+[![](https://codescene.io/projects/2721/status.svg) Get more details at **codescene.io**.](https://codescene.io/projects/2721/jobs/latest-successful/results)
